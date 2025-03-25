@@ -1,0 +1,75 @@
+{
+    "kind": "vumeter",
+    "name": "Tube D HiRes",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "TubeD-00.png",
+            "TubeD-01.png",
+            "TubeD-02.png",
+            "TubeD-03.png",
+            "TubeD-04.png",
+            "TubeD-05.png",
+            "TubeD-06.png",
+            "TubeD-07.png",
+            "TubeD-08.png",
+            "TubeD-09.png",
+            "TubeD-10.png",
+            "TubeD-11.png",
+            "TubeD-12.png",
+            "TubeD-13.png",
+            "TubeD-14.png",
+            "TubeD-15.png",
+            "TubeD-16.png",
+            "TubeD-17.png",
+            "TubeD-18.png",
+            "TubeD-19.png",
+            "TubeD-20.png",
+            "TubeD-21.png",
+            "TubeD-22.png",
+            "TubeD-23.png",
+            "TubeD-24.png",
+            "TubeD-25.png",
+            "TubeD-26.png",
+            "TubeD-27.png",
+            "TubeD-28.png",
+            "TubeD-29.png",
+            "TubeD-30.png",
+            "TubeD-31.png",
+            "TubeD-32.png",
+            "TubeD-33.png",
+            "TubeD-34.png",
+            "TubeD-35.png",
+            "TubeD-36.png",
+            "TubeD-37.png",
+            "TubeD-38.png",
+            "TubeD-39.png",
+            "TubeD-40.png",
+            "TubeD-41.png",
+            "TubeD-42.png",
+            "TubeD-43.png",
+            "TubeD-44.png",
+            "TubeD-45.png",
+            "TubeD-46.png",
+            "TubeD-47.png",
+            "TubeD-48.png"
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "https://github.com/project-owner",
+            "url":  "https://github.com/project-owner/PeppyMeter.doc/wiki"
+        },
+        {
+            "Name": "blaisedias",
+            "Github": "https://github.com/blaisedias/",
+            "Comments": [
+                "recreated with calibration to match jivelite",
+                "repackaged as squeezebox controller 3rd party VU image"
+            ]
+        }
+    ],
+    "License": "GNU General Public License v3.0"    
+}

@@ -1,0 +1,68 @@
+{
+    "kind": "vumeter",
+    "name": "Purple2HiRes",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "Purple2-00.png",
+            "Purple2-01.png",
+            "Purple2-02.png",
+            "Purple2-03.png",
+            "Purple2-04.png",
+            "Purple2-05.png",
+            "Purple2-06.png",
+            "Purple2-07.png",
+            "Purple2-08.png",
+            "Purple2-09.png",
+            "Purple2-10.png",
+            "Purple2-11.png",
+            "Purple2-12.png",
+            "Purple2-13.png",
+            "Purple2-14.png",
+            "Purple2-15.png",
+            "Purple2-16.png",
+            "Purple2-17.png",
+            "Purple2-18.png",
+            "Purple2-19.png",
+            "Purple2-20.png",
+            "Purple2-21.png",
+            "Purple2-22.png",
+            "Purple2-23.png",
+            "Purple2-24.png",
+            "Purple2-25.png",
+            "Purple2-26.png",
+            "Purple2-27.png",
+            "Purple2-28.png",
+            "Purple2-29.png",
+            "Purple2-30.png",
+            "Purple2-31.png",
+            "Purple2-32.png",
+            "Purple2-33.png",
+            "Purple2-34.png",
+            "Purple2-35.png",
+            "Purple2-36.png",
+            "Purple2-37.png",
+            "Purple2-38.png",
+            "Purple2-39.png",
+            "Purple2-40.png",
+            "Purple2-41.png",
+            "Purple2-42.png",
+            "Purple2-43.png",
+            "Purple2-44.png",
+            "Purple2-45.png",
+            "Purple2-46.png",
+            "Purple2-47.png",
+            "Purple2-48.png"
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "blaisedias",
+            "Github": "https://github.com/blaisedias/"
+        }
+    ],
+    "License": "CC-BY-SA-4.0"
+}
+
