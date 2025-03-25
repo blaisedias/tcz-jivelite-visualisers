@@ -1,0 +1,27 @@
+convert +append \
+0001.png \
+0003.png \
+0005.png \
+0007.png \
+0009.png \
+0011.png \
+0013.png \
+0015.png \
+0017.png \
+0019.png \
+0021.png \
+0023.png \
+0025.png \
+0027.png \
+0029.png \
+0031.png \
+0033.png \
+0035.png \
+0037.png \
+0039.png \
+0041.png \
+0043.png \
+0045.png \
+0047.png \
+0049.png \
+vu.png
