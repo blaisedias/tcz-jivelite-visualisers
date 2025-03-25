@@ -62,3 +62,14 @@ and then invoking
 ```
 
 The tczs files are generated in *build* and log files are in *build/logs*
+
+## Setting up to build on piCorePlayer
+ssh into the piCorePlayer then run the following commands
+```
+ce
+tce-load -w git
+tce-load -il git
+git clone  https://github.com/blaisedias/tcz-jivelite-visualisers
+```
+
+Make sure you have enough free space to clone and build currently at least 1GiB
