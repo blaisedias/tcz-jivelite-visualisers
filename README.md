@@ -3,9 +3,11 @@
 * assets: root of tree containing visualiser artwork
   * assets/visualisers/vumeters:  location of VU meter artwork
   * assets/visualisers/spectrum: location of Spectrum meter artwork
-* tcz/scripts/build-vis-meters.sh - core script to build the visualiser tcz files
-* tcz/scripts/pcp_build_tcz.sh - script to build visualiser tcz files on piCorePlayer
 * tcz/suites: path containing tcz suite files which  define the contents of tcz files
+* tcz/scripts/build-all-vis-meter-suites.sh - core script to build all the visualiser suite tcz files
+* tcz/scripts/pcpbuild-all-vis-meter-suites.sh - script to build visualiser suite tcz files on piCorePlayer
+* tcz/scripts/build-vis-meter-suite.sh - script to build a single visualiser suite tcz file
+* tcz/scripts/build-vis-meter.sh - script to build a single visualiser tcz file
 
 ## tcz suite files
 tcz suite files contain lists of meters to include in a single visualiser tcz file.

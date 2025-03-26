@@ -1,5 +1,18 @@
 #!/usr/bin/env bash
 
+if [ -f "$1" ] ; then
+    if [ "$2" == "vumeters" ] || [ "$2" == "spectrum" ] ;
+    then
+        :
+    else
+        echo "Usage $0 <path-to-suitefile> <vumeters|spectrum>"
+        exit 1
+    fi
+else
+    echo "Usage $0 <path-to-suitefile> <vumeters|spectrum>"
+    exit 1
+fi
+
 set -euo pipefail
 SCRIPT_PATH=$(dirname $(realpath $0))
 BASE_PATH=$(dirname $(dirname ${SCRIPT_PATH}))
@@ -8,7 +21,8 @@ LOGS_PATH="${BUILD_PATH}/logs"
 VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
 SUITES_PATH="${BASE_PATH}/tcz/suites"
 
-function build_tcz {
+function build_tcz_suite {
+    suite_definition="$1"
     tcz_name=$(basename $1)
     echo "tcz=$tcz_name"
     dstdir="${BUILD_PATH}/${tcz_name}/opt/jivelite/assets/visualisers/$2/"
@@ -39,7 +53,7 @@ function build_tcz {
             meta_value=$(echo "${line}" | sed -e 's/^.*:\s*//')
             info_array["${meta_key}"]="${meta_value}"
         fi
-    done < $1
+    done < ${suite_definition}
 
     rm -f "${BUILD_PATH}/${tcz_name}.tcz*"
     cd ${BUILD_PATH}
@@ -67,20 +81,11 @@ function build_tcz {
     cd ${SCRIPT_PATH} 
 }
 
-for f in ${SUITES_PATH}/vumeters/*
-do
-    echo "----- $f"
-    if [ -f $f ] ;
+if [ -f "$1" ] ; then
+    if [ "$2" == "vumeters" ] || [ "$2" == "spectrum" ] ;
     then
-        build_tcz $f "vumeters"
+        build_tcz_suite "$1" "$2"
+    else
+        echo "Usage $0 <spath-to-suitefile> <vumeters|spectrum>"
     fi
-done
-
-for f in ${SUITES_PATH}/spectrum/*
-do
-    echo "----- $f"
-    if [ -f $f ] ;
-    then
-        build_tcz $f "spectrum"
-    fi
-done
+fi
