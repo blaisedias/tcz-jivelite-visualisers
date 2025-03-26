@@ -15,7 +15,7 @@ then
     tce-load -il git
     tce-load -il squashfs-tools
 
-    $SCRIPTDIR/build-vis-meter-suites.sh
+    $SCRIPTDIR/build-all-vis-meter-suites.sh
 else
     echo "This script must be run on piCorePlayer"
 fi
