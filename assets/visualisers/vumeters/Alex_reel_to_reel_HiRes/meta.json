@@ -1,6 +1,6 @@
 {
     "kind": "vumeter",
-    "name": "Revox A77 HiRes",
+    "name": "Reel To Reel HiRes",
     "vutype": "frames",
     "#format": "single image -> all frames in a single image file, discrete -> one image file for each frame",
     "format": "discrete",
