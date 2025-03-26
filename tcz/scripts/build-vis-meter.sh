@@ -3,7 +3,6 @@ usage="Usage $0 <path-to-visualiser> <author> <copying-policy>"
 
 if [ -d "$1" ] ; then
     vistype=$(basename $(dirname "$1"))
-    echo "**** $vistype"
     if [ "$vistype" == "vumeters" ] || [ "$vistype" == "spectrum" ] ;
     then
         if [ "$2" == "" ] || [ "$3" == "" ] ;

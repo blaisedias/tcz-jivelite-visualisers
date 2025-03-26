@@ -5,7 +5,7 @@
   * assets/visualisers/spectrum: location of Spectrum meter artwork
 * tcz/suites: path containing tcz suite files which  define the contents of tcz files
 * tcz/scripts/build-all-vis-meter-suites.sh - core script to build all the visualiser suite tcz files
-* tcz/scripts/pcpbuild-all-vis-meter-suites.sh - script to build visualiser suite tcz files on piCorePlayer
+* tcz/scripts/pcp-build-all-vis-meter-suites.sh - script to build visualiser suite tcz files on piCorePlayer
 * tcz/scripts/build-vis-meter-suite.sh - script to build a single visualiser suite tcz file
 * tcz/scripts/build-vis-meter.sh - script to build a single visualiser tcz file
 
@@ -50,17 +50,50 @@ Dependencies:
  * git
  * squash fs tools
 
-On piCorePlayer invoke
+On piCorePlayer to build all suites
 ```
-./tcz/scripts/pcp-build-vis-meters.sh
+./tcz/scripts/pcp-build-all-vis-meter-suites.sh
 ```
 This will download and load the dependencies.
 
 
-On other linux systems, dependencies must be installed using the appropriated package manager,
-and then invoking
+On other linux systems, dependencies must be installed using the appropriated package manager.
+
+To build all suites
 ```
-./tcz/scripts/build-vis-meter-suites.sh
+./tcz/scripts/build-all-vis-meter-suites.sh
+```
+
+To build a single suite
+```
+./tcz/scripts/build-vis-meter-suite.sh <path-to-suitefile> <vumeters|spectrum>
+```
+e.g.
+```
+$ ./tcz/scripts/build-vis-meter-suite.sh tcz/suites/vumeters/VU_Meter_suite_vis_jivelite vumeters
+tcz=VU_Meter_suite_vis_jivelite
+    adding vumeters/Jstraw_Dark
+    adding vumeters/Jstraw_Dark_Peak
+    adding vumeters/Jstraw_Vintage
+    adding vumeters/Kolossos_Oval
+    adding vumeters/Logitech_Black
+    adding vumeters/Logitech_White
+......./tcz-jivelite-visualisers/build
+created ....../tcz-jivelite-visualisers/build/VU_Meter_suite_vis_jivelite.tcz
+log file is ......../tcz-jivelite-visualisers/build/logs/VU_Meter_suite_vis_jivelite.log
+```
+
+To build a tcz with a single visualiser 
+```
+./tcz/scripts/build-vis-meter-suite.sh <path-to-visualiser> <author> <copying-policy>
+```
+e.g.
+```
+$ ./tcz/scripts/build-vis-meter.sh assets/visualisers/vumeters/Jstraw_Dark "J Straw" "Public Domain"
+tcz=VU_Meter_vis_Jstraw_Dark
+..../tcz-jivelite-visualisers/build
+created ..../tcz-jivelite-visualisers/build/VU_Meter_vis_Jstraw_Dark.tcz
+log file is ..../tcz-jivelite-visualisers/build/logs/VU_Meter_vis_Jstraw_Dark.log
 ```
 
 The tczs files are generated in *build* and log files are in *build/logs*
