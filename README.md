@@ -37,9 +37,11 @@ Copying-policy: <name of license>
 ```
 
 For example in *visualiser-tcz-scripts/tcz-lists/vumeters/VU_Meters_vis_jivelite* the contents of the first line are:
-* vumeters/Jstraw_Dark
+* Author:         Jstraw, Arie Kool, Adrian Smith, Ralph Irving, Michael Herger
+* Copying-policy:  Public Domain
 
-the associated vumeter resources are in *assets/visualisers/vumeters/Jstraw_Dark*
+
+the associated vumeter resources are in *assets/visualisers/vumeters/...*
 
 
 ## Building tczs
