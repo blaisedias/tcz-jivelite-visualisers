@@ -26,13 +26,13 @@ BUILD_PATH="${BASE_PATH}/build"
 LOGS_PATH="${BUILD_PATH}/logs"
 VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
 
-    tcz_name=$(basename $1)
+    tcz_name=$(basename "$1")
     if [ "$vistype" == "vumeters" ] && [ -f "$1/meta.json" ] ;
     then
         tcz_name="VU_Meter_vis_${tcz_name}"
     elif [ "$vistype" == "spectrum" ] && [ -f "$1/meta.json" ] ;
     then
-        tcz_name="VU_Meter_vis_${tcz_name}"
+        tcz_name="SP_Meter_vis_${tcz_name}"
     else
         echo "missing meta.json file?"
         exit 2
@@ -40,8 +40,8 @@ VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
 
     echo "tcz=$tcz_name"
     dstdir="${BUILD_PATH}/${tcz_name}/opt/jivelite/assets/visualisers/$2/"
-    rm -rf ${dstdir}
-    mkdir -p ${dstdir}
+    rm -rf "${dstdir}"
+    mkdir -p "${dstdir}"
     mkdir -p ${LOGS_PATH}
 
     declare -A info_array
@@ -56,19 +56,19 @@ VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
     info_array["Extension_by:"]="piCorePlayer team: https://www.picoreplayer.org/"
 
 
-    cp -aR "${1}" ${dstdir}
+    cp -aR "${1}" "${dstdir}"
 
     rm -f "${BUILD_PATH}/${tcz_name}.tcz*"
-    cd ${BUILD_PATH}
+    cd "${BUILD_PATH}"
     pwd
     mksquashfs "${tcz_name}/" "${tcz_name}.tcz" -b 16384 -info >& "${LOGS_PATH}/${tcz_name}.log" && md5sum "${tcz_name}.tcz" > "${tcz_name}.tcz.md5.txt"
     echo "created ${PWD}/${tcz_name}.tcz"
     echo "log file is ${PWD}/logs/${tcz_name}.log"
     cd "${BUILD_PATH}/${tcz_name}"
     find opt -type f > "${BUILD_PATH}/${tcz_name}.list"
-    cd ${BUILD_PATH} 
+    cd "${BUILD_PATH}"
     rm -rf ${tcz_name}
-    echo "BOGUS.tcz" > ${tcz_name}.dep.tcz
+    echo "BOGUS.tcz" > "${tcz_name}.dep.tcz"
     size=$(ls -l "${tcz_name}.tcz" | awk '{print $5}')
     info_array["Size:"]="$size"
     rm -f "${tcz_name}.tcz.info"
@@ -81,4 +81,4 @@ VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
     do
         echo "${elem}		${info_array[${elem}]}" >> "${tcz_name}.tcz.info"
     done
-    cd ${SCRIPT_PATH} 
+    cd "${SCRIPT_PATH}"
