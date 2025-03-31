@@ -11,6 +11,7 @@ SUITES_PATH="${BASE_PATH}/tcz/suites"
 function build_tcz_suite {
     suite_definition="$1"
     tcz_name=$(basename $1)
+    tcz_name="vis-${tcz_name}"
     echo "tcz=$tcz_name"
     dstdir="${BUILD_PATH}/${tcz_name}/opt/jivelite/assets/visualisers/$2/"
     rm -rf ${dstdir}
