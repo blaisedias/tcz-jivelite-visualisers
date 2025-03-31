@@ -38,6 +38,7 @@ VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
         exit 2
     fi
 
+    tcz_name="vis-${tcz_name}"
     echo "tcz=$tcz_name"
     dstdir="${BUILD_PATH}/${tcz_name}/opt/jivelite/assets/visualisers/$2/"
     rm -rf "${dstdir}"
