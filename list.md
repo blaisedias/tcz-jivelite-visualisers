@@ -1,4 +1,4 @@
-# List of Jivelite VIS Visualisers with sample images
+# List of Jivelite Vis Visualisers with sample images
 
 ## Spectrum Suites
 ### vis-SP_Meter_suite_backlit
