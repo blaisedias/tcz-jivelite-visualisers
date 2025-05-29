@@ -55,6 +55,7 @@
 - TransparentBlackHiRes <pre><img src="assets/visualisers/vumeters/TransparentBlackHiRes/TransparentBlack-18.png?raw=true" alt="TransparentBlackHiRes" width="200"/> <img src="assets/visualisers/vumeters/TransparentBlackHiRes/TransparentBlack-42.png?raw=true" alt="TransparentBlackHiRes" width="200"/></pre>
 - TransparentWhiteHiRes <pre><img src="assets/visualisers/vumeters/TransparentWhiteHiRes/TransparentWhite-18.png?raw=true" alt="TransparentWhiteHiRes" width="200"/> <img src="assets/visualisers/vumeters/TransparentWhiteHiRes/TransparentWhite-42.png?raw=true" alt="TransparentWhiteHiRes" width="200"/></pre>
 - Tube D HiRes <pre><img src="assets/visualisers/vumeters/TubeDHiRes/TubeD-18.png?raw=true" alt="TubeDHiRes" width="200"/> <img src="assets/visualisers/vumeters/TubeDHiRes/TubeD-42.png?raw=true" alt="TubeDHiRes" width="200"/></pre>
+- Blue Glow D HiRes <pre><img src="assets/visualisers/vumeters/BlueGlowDHiRes/BlueGlowD-18.png?raw=true" alt="BlueGlowDHiRes" width="200"/> <img src="assets/visualisers/vumeters/BlueGlowDHiRes/BlueGlowD-42.png?raw=true" alt="BlueGlowDHiRes" width="200"/></pre>
 
 ### vis-VU_Meter_suite_concept_Alex
 - Raspi <pre><img src="list_links/vis-VU_Meter_suite_concept_Alex/Alex_raspi.png?raw=true" alt="Alex_raspi" width="400"/></pre>

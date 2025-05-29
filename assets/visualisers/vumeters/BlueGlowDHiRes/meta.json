@@ -1,0 +1,78 @@
+{
+    "kind": "vumeter",
+    "name": "Blue Glow D HiRes",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "BlueGlowD-00.png",
+            "BlueGlowD-01.png",
+            "BlueGlowD-02.png",
+            "BlueGlowD-03.png",
+            "BlueGlowD-04.png",
+            "BlueGlowD-05.png",
+            "BlueGlowD-06.png",
+            "BlueGlowD-07.png",
+            "BlueGlowD-08.png",
+            "BlueGlowD-09.png",
+            "BlueGlowD-10.png",
+            "BlueGlowD-11.png",
+            "BlueGlowD-12.png",
+            "BlueGlowD-13.png",
+            "BlueGlowD-14.png",
+            "BlueGlowD-15.png",
+            "BlueGlowD-16.png",
+            "BlueGlowD-17.png",
+            "BlueGlowD-18.png",
+            "BlueGlowD-19.png",
+            "BlueGlowD-20.png",
+            "BlueGlowD-21.png",
+            "BlueGlowD-22.png",
+            "BlueGlowD-23.png",
+            "BlueGlowD-24.png",
+            "BlueGlowD-25.png",
+            "BlueGlowD-26.png",
+            "BlueGlowD-27.png",
+            "BlueGlowD-28.png",
+            "BlueGlowD-29.png",
+            "BlueGlowD-30.png",
+            "BlueGlowD-31.png",
+            "BlueGlowD-32.png",
+            "BlueGlowD-33.png",
+            "BlueGlowD-34.png",
+            "BlueGlowD-35.png",
+            "BlueGlowD-36.png",
+            "BlueGlowD-37.png",
+            "BlueGlowD-38.png",
+            "BlueGlowD-39.png",
+            "BlueGlowD-40.png",
+            "BlueGlowD-41.png",
+            "BlueGlowD-42.png",
+            "BlueGlowD-43.png",
+            "BlueGlowD-44.png",
+            "BlueGlowD-45.png",
+            "BlueGlowD-46.png",
+            "BlueGlowD-47.png",
+            "BlueGlowD-48.png"
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "ronaldmcdonald"
+        },
+        {
+            "Name": "blaisedias https://github.com/blaisedias"
+        }
+    ],
+    "Source": {
+        "Description":	"Community squeezebox controller 3rd party VU image.",
+        "Version": "0.1.0",
+        "Original-site": "https://forums.slimdevices.com/showthread.php?103330-Jivelite-for-piCorePlayer&p=953034&viewfull=1#post953034",
+        "Copying-policy": "Public Domain",
+        "Modifications": "dial recalibration by blaisedias",
+        "Extension_by":	"piCorePlayer team: https://www.picoreplayer.org"
+    },
+    "License": "Public Domain"
+}
+
