@@ -35,6 +35,9 @@
 - VFD <pre><img src="list_links/vis-VU_Meter_suite_Alex/Alex_vfd.png?raw=true" alt="Alex_vfd" width="400"/></pre>
 
 ### vis-VU_Meter_suite_HiRes_Alex
+- Backlit 1 HiRes <pre><img src="assets/visualisers/vumeters/Alex_backlit-1_Hires/L_0018.png?raw=true" alt="Alex_backlit-1_Hires" width="200"/> <img src="assets/visualisers/vumeters/Alex_backlit-1_Hires/R_0042.png?raw=true" alt="Alex_backlit-1_Hires" width="200"/></pre>
+- Backlit 2 HiRes <pre><img src="assets/visualisers/vumeters/Alex_backlit-2_Hires/L_0018.png?raw=true" alt="Alex_backlit-2_Hires" width="200"/> <img src="assets/visualisers/vumeters/Alex_backlit-2_Hires/R_0042.png?raw=true" alt="Alex_backlit-2_Hires" width="200"/></pre>
+- Backlit 3 HiRes <pre><img src="assets/visualisers/vumeters/Alex_backlit-3_Hires/0018.png?raw=true" alt="Alex_backlit-3_Hires" width="200"/> <img src="assets/visualisers/vumeters/Alex_backlit-3_Hires/0042.png?raw=true" alt="Alex_backlit-3_Hires" width="200"/></pre>
 - Blue HiRes <pre><img src="assets/visualisers/vumeters/Alex_blue_HiRes/0018.png?raw=true" alt="Alex_blue_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_blue_HiRes/0042.png?raw=true" alt="Alex_blue_HiRes" width="200"/></pre>
 - Brushed HiRes <pre><img src="assets/visualisers/vumeters/Alex_brushed_HiRes/0018.png?raw=true" alt="Alex_brushed_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_brushed_HiRes/0042.png?raw=true" alt="Alex_brushed_HiRes" width="200"/></pre>
 - Clean HiRes <pre><img src="assets/visualisers/vumeters/Alex_clean_HiRes/clean-18.png?raw=true" alt="Alex_clean_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_clean_HiRes/clean-42.png?raw=true" alt="Alex_clean_HiRes" width="200"/></pre>
