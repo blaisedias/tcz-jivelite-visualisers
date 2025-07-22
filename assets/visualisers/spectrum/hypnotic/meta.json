@@ -1,7 +1,7 @@
 {
     "kind": "spectrum-meter",
     "name" : "Hypnotic",
-    "foreground": "hypnotic-747183_1920.jpg",
+    "foreground": "hypnotic-747183_1920.png",
     "sptype": "backlit",
     "Authors": [
         "David Zydd",
