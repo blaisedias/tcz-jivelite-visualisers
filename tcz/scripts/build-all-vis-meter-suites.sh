@@ -69,6 +69,8 @@ function build_tcz_suite {
     cd ${SCRIPT_PATH} 
 }
 
+$SCRIPT_PATH/md5sum_pngs.sh
+
 for f in ${SUITES_PATH}/vumeters/*
 do
     echo "----- $f"
