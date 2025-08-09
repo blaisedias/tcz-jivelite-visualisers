@@ -71,6 +71,7 @@
 
 ### vis-VU_Meter_suite_concept_HiRes_Alex
 - Concept 1 HiRes <pre><img src="assets/visualisers/vumeters/Alex_concept1_HiRes/L_0018.png?raw=true" alt="Alex_concept1_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_concept1_HiRes/R_0042.png?raw=true" alt="Alex_concept1_HiRes" width="200"/></pre>
+- Dots HiRes <pre><img src="assets/visualisers/vumeters/Alex_dots_HiRes/L_0018.png?raw=true" alt="Alex_dots_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_dots_HiRes/R_0042.png?raw=true" alt="Alex_dots_HiRes" width="200"/></pre>
 - Gears HiRes <pre><img src="assets/visualisers/vumeters/Alex_gears_HiRes/0018.png?raw=true" alt="Alex_gears_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_gears_HiRes/0042.png?raw=true" alt="Alex_gears_HiRes" width="200"/></pre>
 - Moon HiRes <pre><img src="assets/visualisers/vumeters/Alex_moon_HiRes/0018.png?raw=true" alt="Alex_moon_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_moon_HiRes/0042.png?raw=true" alt="Alex_moon_HiRes" width="200"/></pre>
 - Tape HiRes <pre><img src="assets/visualisers/vumeters/Alex_tape_HiRes/L_0018.png?raw=true" alt="Alex_tape_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_tape_HiRes/R_0042.png?raw=true" alt="Alex_tape_HiRes" width="200"/></pre>
