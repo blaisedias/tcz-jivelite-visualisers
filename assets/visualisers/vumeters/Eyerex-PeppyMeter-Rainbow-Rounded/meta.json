@@ -1,0 +1,74 @@
+{
+    "kind": "vumeter",
+    "name": "PeppyMeter Rainbow Rounded",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "PeppyMeter-Rainbow-00.png",
+            "PeppyMeter-Rainbow-01.png",
+            "PeppyMeter-Rainbow-02.png",
+            "PeppyMeter-Rainbow-03.png",
+            "PeppyMeter-Rainbow-04.png",
+            "PeppyMeter-Rainbow-05.png",
+            "PeppyMeter-Rainbow-06.png",
+            "PeppyMeter-Rainbow-07.png",
+            "PeppyMeter-Rainbow-08.png",
+            "PeppyMeter-Rainbow-09.png",
+            "PeppyMeter-Rainbow-10.png",
+            "PeppyMeter-Rainbow-11.png",
+            "PeppyMeter-Rainbow-12.png",
+            "PeppyMeter-Rainbow-13.png",
+            "PeppyMeter-Rainbow-14.png",
+            "PeppyMeter-Rainbow-15.png",
+            "PeppyMeter-Rainbow-16.png",
+            "PeppyMeter-Rainbow-17.png",
+            "PeppyMeter-Rainbow-18.png",
+            "PeppyMeter-Rainbow-19.png",
+            "PeppyMeter-Rainbow-20.png",
+            "PeppyMeter-Rainbow-21.png",
+            "PeppyMeter-Rainbow-22.png",
+            "PeppyMeter-Rainbow-23.png",
+            "PeppyMeter-Rainbow-24.png",
+            "PeppyMeter-Rainbow-25.png",
+            "PeppyMeter-Rainbow-26.png",
+            "PeppyMeter-Rainbow-27.png",
+            "PeppyMeter-Rainbow-28.png",
+            "PeppyMeter-Rainbow-29.png",
+            "PeppyMeter-Rainbow-30.png",
+            "PeppyMeter-Rainbow-31.png",
+            "PeppyMeter-Rainbow-32.png",
+            "PeppyMeter-Rainbow-33.png",
+            "PeppyMeter-Rainbow-34.png",
+            "PeppyMeter-Rainbow-35.png",
+            "PeppyMeter-Rainbow-36.png",
+            "PeppyMeter-Rainbow-37.png",
+            "PeppyMeter-Rainbow-38.png",
+            "PeppyMeter-Rainbow-39.png",
+            "PeppyMeter-Rainbow-40.png",
+            "PeppyMeter-Rainbow-41.png",
+            "PeppyMeter-Rainbow-42.png",
+            "PeppyMeter-Rainbow-43.png",
+            "PeppyMeter-Rainbow-44.png",
+            "PeppyMeter-Rainbow-45.png",
+            "PeppyMeter-Rainbow-46.png",
+            "PeppyMeter-Rainbow-47.png",
+            "PeppyMeter-Rainbow-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "https://github.com/project-owner",
+            "urls": [
+                "https://github.com/project-owner/PeppyMeter.doc/wiki",
+                "https://github.com/project-owner/PeppyMeter"
+            ]
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "License": "GPL-3.0"
+}
+

@@ -1,0 +1,84 @@
+{
+    "kind": "vumeter",
+    "name": "Logitech White Rounded HD",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "Logitech-White-00.png",
+            "Logitech-White-01.png",
+            "Logitech-White-02.png",
+            "Logitech-White-03.png",
+            "Logitech-White-04.png",
+            "Logitech-White-05.png",
+            "Logitech-White-06.png",
+            "Logitech-White-07.png",
+            "Logitech-White-08.png",
+            "Logitech-White-09.png",
+            "Logitech-White-10.png",
+            "Logitech-White-11.png",
+            "Logitech-White-12.png",
+            "Logitech-White-13.png",
+            "Logitech-White-14.png",
+            "Logitech-White-15.png",
+            "Logitech-White-16.png",
+            "Logitech-White-17.png",
+            "Logitech-White-18.png",
+            "Logitech-White-19.png",
+            "Logitech-White-20.png",
+            "Logitech-White-21.png",
+            "Logitech-White-22.png",
+            "Logitech-White-23.png",
+            "Logitech-White-24.png",
+            "Logitech-White-25.png",
+            "Logitech-White-26.png",
+            "Logitech-White-27.png",
+            "Logitech-White-28.png",
+            "Logitech-White-29.png",
+            "Logitech-White-30.png",
+            "Logitech-White-31.png",
+            "Logitech-White-32.png",
+            "Logitech-White-33.png",
+            "Logitech-White-34.png",
+            "Logitech-White-35.png",
+            "Logitech-White-36.png",
+            "Logitech-White-37.png",
+            "Logitech-White-38.png",
+            "Logitech-White-39.png",
+            "Logitech-White-40.png",
+            "Logitech-White-41.png",
+            "Logitech-White-42.png",
+            "Logitech-White-43.png",
+            "Logitech-White-44.png",
+            "Logitech-White-45.png",
+            "Logitech-White-46.png",
+            "Logitech-White-47.png",
+            "Logitech-White-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "Adrian Smith"
+        },
+        {
+            "Name": "Ralph Irving"
+        },
+        {
+            "Name": "Michael Herger"
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "Source": {
+        "Description":	"Community squeezebox controller 3rd party VU image.",
+        "Version": "0.1.0",
+        "Original-site": "https://github.com/ralph-irving/jivelite.git",
+        "Commit": "b4aff097e3a3ee1769087771215637a4562d0cbf",
+        "Copying-policy": "GPLv3",
+        "Extension_by":	"piCorePlayer team: https://www.picoreplayer.org"
+    },
+    "License": "GPLv3"
+}
+

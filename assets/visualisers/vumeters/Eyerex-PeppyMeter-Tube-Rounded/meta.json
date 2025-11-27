@@ -1,0 +1,74 @@
+{
+    "kind": "vumeter",
+    "name": "PeppyMeter Tube Rounded",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "PeppyMeter-Tube-00.png",
+            "PeppyMeter-Tube-01.png",
+            "PeppyMeter-Tube-02.png",
+            "PeppyMeter-Tube-03.png",
+            "PeppyMeter-Tube-04.png",
+            "PeppyMeter-Tube-05.png",
+            "PeppyMeter-Tube-06.png",
+            "PeppyMeter-Tube-07.png",
+            "PeppyMeter-Tube-08.png",
+            "PeppyMeter-Tube-09.png",
+            "PeppyMeter-Tube-10.png",
+            "PeppyMeter-Tube-11.png",
+            "PeppyMeter-Tube-12.png",
+            "PeppyMeter-Tube-13.png",
+            "PeppyMeter-Tube-14.png",
+            "PeppyMeter-Tube-15.png",
+            "PeppyMeter-Tube-16.png",
+            "PeppyMeter-Tube-17.png",
+            "PeppyMeter-Tube-18.png",
+            "PeppyMeter-Tube-19.png",
+            "PeppyMeter-Tube-20.png",
+            "PeppyMeter-Tube-21.png",
+            "PeppyMeter-Tube-22.png",
+            "PeppyMeter-Tube-23.png",
+            "PeppyMeter-Tube-24.png",
+            "PeppyMeter-Tube-25.png",
+            "PeppyMeter-Tube-26.png",
+            "PeppyMeter-Tube-27.png",
+            "PeppyMeter-Tube-28.png",
+            "PeppyMeter-Tube-29.png",
+            "PeppyMeter-Tube-30.png",
+            "PeppyMeter-Tube-31.png",
+            "PeppyMeter-Tube-32.png",
+            "PeppyMeter-Tube-33.png",
+            "PeppyMeter-Tube-34.png",
+            "PeppyMeter-Tube-35.png",
+            "PeppyMeter-Tube-36.png",
+            "PeppyMeter-Tube-37.png",
+            "PeppyMeter-Tube-38.png",
+            "PeppyMeter-Tube-39.png",
+            "PeppyMeter-Tube-40.png",
+            "PeppyMeter-Tube-41.png",
+            "PeppyMeter-Tube-42.png",
+            "PeppyMeter-Tube-43.png",
+            "PeppyMeter-Tube-44.png",
+            "PeppyMeter-Tube-45.png",
+            "PeppyMeter-Tube-46.png",
+            "PeppyMeter-Tube-47.png",
+            "PeppyMeter-Tube-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "https://github.com/project-owner",
+            "urls": [
+                "https://github.com/project-owner/PeppyMeter.doc/wiki",
+                "https://github.com/project-owner/PeppyMeter"
+            ]
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "License": "GPL-3.0"
+}
+
