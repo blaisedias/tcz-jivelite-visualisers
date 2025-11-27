@@ -1,0 +1,74 @@
+{
+    "kind": "vumeter",
+    "name": "PeppyMeter White and Red Rounded",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "PeppyMeter-White-and-Red-00.png",
+            "PeppyMeter-White-and-Red-01.png",
+            "PeppyMeter-White-and-Red-02.png",
+            "PeppyMeter-White-and-Red-03.png",
+            "PeppyMeter-White-and-Red-04.png",
+            "PeppyMeter-White-and-Red-05.png",
+            "PeppyMeter-White-and-Red-06.png",
+            "PeppyMeter-White-and-Red-07.png",
+            "PeppyMeter-White-and-Red-08.png",
+            "PeppyMeter-White-and-Red-09.png",
+            "PeppyMeter-White-and-Red-10.png",
+            "PeppyMeter-White-and-Red-11.png",
+            "PeppyMeter-White-and-Red-12.png",
+            "PeppyMeter-White-and-Red-13.png",
+            "PeppyMeter-White-and-Red-14.png",
+            "PeppyMeter-White-and-Red-15.png",
+            "PeppyMeter-White-and-Red-16.png",
+            "PeppyMeter-White-and-Red-17.png",
+            "PeppyMeter-White-and-Red-18.png",
+            "PeppyMeter-White-and-Red-19.png",
+            "PeppyMeter-White-and-Red-20.png",
+            "PeppyMeter-White-and-Red-21.png",
+            "PeppyMeter-White-and-Red-22.png",
+            "PeppyMeter-White-and-Red-23.png",
+            "PeppyMeter-White-and-Red-24.png",
+            "PeppyMeter-White-and-Red-25.png",
+            "PeppyMeter-White-and-Red-26.png",
+            "PeppyMeter-White-and-Red-27.png",
+            "PeppyMeter-White-and-Red-28.png",
+            "PeppyMeter-White-and-Red-29.png",
+            "PeppyMeter-White-and-Red-30.png",
+            "PeppyMeter-White-and-Red-31.png",
+            "PeppyMeter-White-and-Red-32.png",
+            "PeppyMeter-White-and-Red-33.png",
+            "PeppyMeter-White-and-Red-34.png",
+            "PeppyMeter-White-and-Red-35.png",
+            "PeppyMeter-White-and-Red-36.png",
+            "PeppyMeter-White-and-Red-37.png",
+            "PeppyMeter-White-and-Red-38.png",
+            "PeppyMeter-White-and-Red-39.png",
+            "PeppyMeter-White-and-Red-40.png",
+            "PeppyMeter-White-and-Red-41.png",
+            "PeppyMeter-White-and-Red-42.png",
+            "PeppyMeter-White-and-Red-43.png",
+            "PeppyMeter-White-and-Red-44.png",
+            "PeppyMeter-White-and-Red-45.png",
+            "PeppyMeter-White-and-Red-46.png",
+            "PeppyMeter-White-and-Red-47.png",
+            "PeppyMeter-White-and-Red-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "https://github.com/project-owner",
+            "urls": [
+                "https://github.com/project-owner/PeppyMeter.doc/wiki",
+                "https://github.com/project-owner/PeppyMeter"
+            ]
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "License": "GPL-3.0"
+}
+

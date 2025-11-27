@@ -1,0 +1,77 @@
+{
+    "kind": "vumeter",
+    "name": "Kolossos Oval HD",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "Kolossos-Oval-00.png",
+            "Kolossos-Oval-01.png",
+            "Kolossos-Oval-02.png",
+            "Kolossos-Oval-03.png",
+            "Kolossos-Oval-04.png",
+            "Kolossos-Oval-05.png",
+            "Kolossos-Oval-06.png",
+            "Kolossos-Oval-07.png",
+            "Kolossos-Oval-08.png",
+            "Kolossos-Oval-09.png",
+            "Kolossos-Oval-10.png",
+            "Kolossos-Oval-11.png",
+            "Kolossos-Oval-12.png",
+            "Kolossos-Oval-13.png",
+            "Kolossos-Oval-14.png",
+            "Kolossos-Oval-15.png",
+            "Kolossos-Oval-16.png",
+            "Kolossos-Oval-17.png",
+            "Kolossos-Oval-18.png",
+            "Kolossos-Oval-19.png",
+            "Kolossos-Oval-20.png",
+            "Kolossos-Oval-21.png",
+            "Kolossos-Oval-22.png",
+            "Kolossos-Oval-23.png",
+            "Kolossos-Oval-24.png",
+            "Kolossos-Oval-25.png",
+            "Kolossos-Oval-26.png",
+            "Kolossos-Oval-27.png",
+            "Kolossos-Oval-28.png",
+            "Kolossos-Oval-29.png",
+            "Kolossos-Oval-30.png",
+            "Kolossos-Oval-31.png",
+            "Kolossos-Oval-32.png",
+            "Kolossos-Oval-33.png",
+            "Kolossos-Oval-34.png",
+            "Kolossos-Oval-35.png",
+            "Kolossos-Oval-36.png",
+            "Kolossos-Oval-37.png",
+            "Kolossos-Oval-38.png",
+            "Kolossos-Oval-39.png",
+            "Kolossos-Oval-40.png",
+            "Kolossos-Oval-41.png",
+            "Kolossos-Oval-42.png",
+            "Kolossos-Oval-43.png",
+            "Kolossos-Oval-44.png",
+            "Kolossos-Oval-45.png",
+            "Kolossos-Oval-46.png",
+            "Kolossos-Oval-47.png",
+            "Kolossos-Oval-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "Arie Kool"
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "Source": {
+        "Description":	"Community squeezebox controller 3rd party VU image.",
+        "Version": "0.1.0",
+        "Original-site": "https://github.com/ralph-irving/jivelite.git",
+        "Copying-policy": "Public Domain",
+        "Extension_by":	"piCorePlayer team: https://www.picoreplayer.org"
+    },
+    "License": "Public Domain"
+}
+

@@ -1,0 +1,77 @@
+{
+    "kind": "vumeter",
+    "name": "Blue Glow Rounded HD",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "Blue-Glow-00.png",
+            "Blue-Glow-01.png",
+            "Blue-Glow-02.png",
+            "Blue-Glow-03.png",
+            "Blue-Glow-04.png",
+            "Blue-Glow-05.png",
+            "Blue-Glow-06.png",
+            "Blue-Glow-07.png",
+            "Blue-Glow-08.png",
+            "Blue-Glow-09.png",
+            "Blue-Glow-10.png",
+            "Blue-Glow-11.png",
+            "Blue-Glow-12.png",
+            "Blue-Glow-13.png",
+            "Blue-Glow-14.png",
+            "Blue-Glow-15.png",
+            "Blue-Glow-16.png",
+            "Blue-Glow-17.png",
+            "Blue-Glow-18.png",
+            "Blue-Glow-19.png",
+            "Blue-Glow-20.png",
+            "Blue-Glow-21.png",
+            "Blue-Glow-22.png",
+            "Blue-Glow-23.png",
+            "Blue-Glow-24.png",
+            "Blue-Glow-25.png",
+            "Blue-Glow-26.png",
+            "Blue-Glow-27.png",
+            "Blue-Glow-28.png",
+            "Blue-Glow-29.png",
+            "Blue-Glow-30.png",
+            "Blue-Glow-31.png",
+            "Blue-Glow-32.png",
+            "Blue-Glow-33.png",
+            "Blue-Glow-34.png",
+            "Blue-Glow-35.png",
+            "Blue-Glow-36.png",
+            "Blue-Glow-37.png",
+            "Blue-Glow-38.png",
+            "Blue-Glow-39.png",
+            "Blue-Glow-40.png",
+            "Blue-Glow-41.png",
+            "Blue-Glow-42.png",
+            "Blue-Glow-43.png",
+            "Blue-Glow-44.png",
+            "Blue-Glow-45.png",
+            "Blue-Glow-46.png",
+            "Blue-Glow-47.png",
+            "Blue-Glow-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "ronaldmcdonald"
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "Source": {
+        "Description":	"Community squeezebox controller 3rd party VU image.",
+        "Version": "0.1.0",
+        "Original-site": "https://forums.slimdevices.com/showthread.php?103330-Jivelite-for-piCorePlayer&p=953034&viewfull=1#post953034",
+        "Copying-policy": "Public Domain",
+        "Extension_by":	"piCorePlayer team: https://www.picoreplayer.org"
+    },
+    "License": "Public Domain"
+}
+

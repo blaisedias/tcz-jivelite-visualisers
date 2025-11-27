@@ -1,0 +1,74 @@
+{
+    "kind": "vumeter",
+    "name": "PeppyMeter Gold Rounded",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "PeppyMeter-Gold-00.png",
+            "PeppyMeter-Gold-01.png",
+            "PeppyMeter-Gold-02.png",
+            "PeppyMeter-Gold-03.png",
+            "PeppyMeter-Gold-04.png",
+            "PeppyMeter-Gold-05.png",
+            "PeppyMeter-Gold-06.png",
+            "PeppyMeter-Gold-07.png",
+            "PeppyMeter-Gold-08.png",
+            "PeppyMeter-Gold-09.png",
+            "PeppyMeter-Gold-10.png",
+            "PeppyMeter-Gold-11.png",
+            "PeppyMeter-Gold-12.png",
+            "PeppyMeter-Gold-13.png",
+            "PeppyMeter-Gold-14.png",
+            "PeppyMeter-Gold-15.png",
+            "PeppyMeter-Gold-16.png",
+            "PeppyMeter-Gold-17.png",
+            "PeppyMeter-Gold-18.png",
+            "PeppyMeter-Gold-19.png",
+            "PeppyMeter-Gold-20.png",
+            "PeppyMeter-Gold-21.png",
+            "PeppyMeter-Gold-22.png",
+            "PeppyMeter-Gold-23.png",
+            "PeppyMeter-Gold-24.png",
+            "PeppyMeter-Gold-25.png",
+            "PeppyMeter-Gold-26.png",
+            "PeppyMeter-Gold-27.png",
+            "PeppyMeter-Gold-28.png",
+            "PeppyMeter-Gold-29.png",
+            "PeppyMeter-Gold-30.png",
+            "PeppyMeter-Gold-31.png",
+            "PeppyMeter-Gold-32.png",
+            "PeppyMeter-Gold-33.png",
+            "PeppyMeter-Gold-34.png",
+            "PeppyMeter-Gold-35.png",
+            "PeppyMeter-Gold-36.png",
+            "PeppyMeter-Gold-37.png",
+            "PeppyMeter-Gold-38.png",
+            "PeppyMeter-Gold-39.png",
+            "PeppyMeter-Gold-40.png",
+            "PeppyMeter-Gold-41.png",
+            "PeppyMeter-Gold-42.png",
+            "PeppyMeter-Gold-43.png",
+            "PeppyMeter-Gold-44.png",
+            "PeppyMeter-Gold-45.png",
+            "PeppyMeter-Gold-46.png",
+            "PeppyMeter-Gold-47.png",
+            "PeppyMeter-Gold-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "https://github.com/project-owner",
+            "urls": [
+                "https://github.com/project-owner/PeppyMeter.doc/wiki",
+                "https://github.com/project-owner/PeppyMeter"
+            ]
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "License": "GPL-3.0"
+}
+

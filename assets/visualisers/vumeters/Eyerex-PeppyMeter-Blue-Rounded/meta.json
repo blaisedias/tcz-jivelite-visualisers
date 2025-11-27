@@ -1,0 +1,74 @@
+{
+    "kind": "vumeter",
+    "name": "PeppyMeter Blue Rounded",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "PeppyMeter-Blue-00.png",
+            "PeppyMeter-Blue-01.png",
+            "PeppyMeter-Blue-02.png",
+            "PeppyMeter-Blue-03.png",
+            "PeppyMeter-Blue-04.png",
+            "PeppyMeter-Blue-05.png",
+            "PeppyMeter-Blue-06.png",
+            "PeppyMeter-Blue-07.png",
+            "PeppyMeter-Blue-08.png",
+            "PeppyMeter-Blue-09.png",
+            "PeppyMeter-Blue-10.png",
+            "PeppyMeter-Blue-11.png",
+            "PeppyMeter-Blue-12.png",
+            "PeppyMeter-Blue-13.png",
+            "PeppyMeter-Blue-14.png",
+            "PeppyMeter-Blue-15.png",
+            "PeppyMeter-Blue-16.png",
+            "PeppyMeter-Blue-17.png",
+            "PeppyMeter-Blue-18.png",
+            "PeppyMeter-Blue-19.png",
+            "PeppyMeter-Blue-20.png",
+            "PeppyMeter-Blue-21.png",
+            "PeppyMeter-Blue-22.png",
+            "PeppyMeter-Blue-23.png",
+            "PeppyMeter-Blue-24.png",
+            "PeppyMeter-Blue-25.png",
+            "PeppyMeter-Blue-26.png",
+            "PeppyMeter-Blue-27.png",
+            "PeppyMeter-Blue-28.png",
+            "PeppyMeter-Blue-29.png",
+            "PeppyMeter-Blue-30.png",
+            "PeppyMeter-Blue-31.png",
+            "PeppyMeter-Blue-32.png",
+            "PeppyMeter-Blue-33.png",
+            "PeppyMeter-Blue-34.png",
+            "PeppyMeter-Blue-35.png",
+            "PeppyMeter-Blue-36.png",
+            "PeppyMeter-Blue-37.png",
+            "PeppyMeter-Blue-38.png",
+            "PeppyMeter-Blue-39.png",
+            "PeppyMeter-Blue-40.png",
+            "PeppyMeter-Blue-41.png",
+            "PeppyMeter-Blue-42.png",
+            "PeppyMeter-Blue-43.png",
+            "PeppyMeter-Blue-44.png",
+            "PeppyMeter-Blue-45.png",
+            "PeppyMeter-Blue-46.png",
+            "PeppyMeter-Blue-47.png",
+            "PeppyMeter-Blue-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "https://github.com/project-owner",
+            "urls": [
+                "https://github.com/project-owner/PeppyMeter.doc/wiki",
+                "https://github.com/project-owner/PeppyMeter"
+            ]
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "License": "GPL-3.0"
+}
+

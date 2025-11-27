@@ -1,0 +1,77 @@
+{
+    "kind": "vumeter",
+    "name": "Jstraw Dark Peak Square HD",
+    "vutype": "frames",
+    "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
+    "format": "discrete",
+    "files": {
+        "frames": [
+            "Jstraw-Dark-Peak-00.png",
+            "Jstraw-Dark-Peak-01.png",
+            "Jstraw-Dark-Peak-02.png",
+            "Jstraw-Dark-Peak-03.png",
+            "Jstraw-Dark-Peak-04.png",
+            "Jstraw-Dark-Peak-05.png",
+            "Jstraw-Dark-Peak-06.png",
+            "Jstraw-Dark-Peak-07.png",
+            "Jstraw-Dark-Peak-08.png",
+            "Jstraw-Dark-Peak-09.png",
+            "Jstraw-Dark-Peak-10.png",
+            "Jstraw-Dark-Peak-11.png",
+            "Jstraw-Dark-Peak-12.png",
+            "Jstraw-Dark-Peak-13.png",
+            "Jstraw-Dark-Peak-14.png",
+            "Jstraw-Dark-Peak-15.png",
+            "Jstraw-Dark-Peak-16.png",
+            "Jstraw-Dark-Peak-17.png",
+            "Jstraw-Dark-Peak-18.png",
+            "Jstraw-Dark-Peak-19.png",
+            "Jstraw-Dark-Peak-20.png",
+            "Jstraw-Dark-Peak-21.png",
+            "Jstraw-Dark-Peak-22.png",
+            "Jstraw-Dark-Peak-23.png",
+            "Jstraw-Dark-Peak-24.png",
+            "Jstraw-Dark-Peak-25.png",
+            "Jstraw-Dark-Peak-26.png",
+            "Jstraw-Dark-Peak-27.png",
+            "Jstraw-Dark-Peak-28.png",
+            "Jstraw-Dark-Peak-29.png",
+            "Jstraw-Dark-Peak-30.png",
+            "Jstraw-Dark-Peak-31.png",
+            "Jstraw-Dark-Peak-32.png",
+            "Jstraw-Dark-Peak-33.png",
+            "Jstraw-Dark-Peak-34.png",
+            "Jstraw-Dark-Peak-35.png",
+            "Jstraw-Dark-Peak-36.png",
+            "Jstraw-Dark-Peak-37.png",
+            "Jstraw-Dark-Peak-38.png",
+            "Jstraw-Dark-Peak-39.png",
+            "Jstraw-Dark-Peak-40.png",
+            "Jstraw-Dark-Peak-41.png",
+            "Jstraw-Dark-Peak-42.png",
+            "Jstraw-Dark-Peak-43.png",
+            "Jstraw-Dark-Peak-44.png",
+            "Jstraw-Dark-Peak-45.png",
+            "Jstraw-Dark-Peak-46.png",
+            "Jstraw-Dark-Peak-47.png",
+            "Jstraw-Dark-Peak-48.png" 
+        ]
+    },
+    "Authors":  [
+        {
+            "Name": "jstraw"
+        },
+        {
+            "link": "https://forums.lyrion.org/member/65695-eyerex"
+        }
+    ],
+    "Source": {
+        "Description":	"Community squeezebox controller 3rd party VU image.",
+        "Version": "0.1.0",
+        "Original-site": "http://forums.lyrion.org/showthread.php?77117-Analogue-digital-VU/",
+        "Copying-policy": "Public Domain",
+        "Extension_by":	"piCorePlayer team: https://www.picoreplayer.org"
+    },
+    "License": "Public Domain"
+}
+
