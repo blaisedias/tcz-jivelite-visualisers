@@ -13,7 +13,10 @@
     "Authors":  [
         {
             "Name": "https://github.com/project-owner",
-            "url":  "https://github.com/project-owner/PeppyMeter.doc/wiki"
+            "urls": [
+                "https://github.com/project-owner/PeppyMeter.doc/wiki",
+                "https://github.com/project-owner/PeppyMeter"
+            ]
         },
         {
             "Name": "blaisedias",

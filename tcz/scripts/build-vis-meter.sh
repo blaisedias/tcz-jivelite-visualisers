@@ -69,7 +69,7 @@ VISUALISERS_PATH="${BASE_PATH}/assets/visualisers"
     find opt -type f > "${BUILD_PATH}/${tcz_name}.list"
     cd "${BUILD_PATH}"
     rm -rf ${tcz_name}
-    echo "BOGUS.tcz" > "${tcz_name}.dep.tcz"
+    echo "BOGUS.tcz" > "${tcz_name}.dep
     size=$(ls -l "${tcz_name}.tcz" | awk '{print $5}')
     info_array["Size:"]="$size"
     rm -f "${tcz_name}.tcz.info"
