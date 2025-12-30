@@ -4,7 +4,7 @@
     "vutype": "frames",
     "#format": "single image -> all frames in a single image file, discrete -> one file for each frame",
     "format": "discrete",
-    "files": {,
+    "files": {
         "frames": [
             "PeppyMeter-Blue-2-Black-00.png",
             "PeppyMeter-Blue-2-Black-01.png",
@@ -71,4 +71,3 @@
     ],
     "License": "GPL-3.0"
 }
-
