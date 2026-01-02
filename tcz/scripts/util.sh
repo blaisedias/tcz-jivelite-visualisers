@@ -37,6 +37,7 @@ function build_tcz_suite {
     rm -f "${BUILD_PATH}/${tcz_name}.tcz*"
     cd ${BUILD_PATH}
     pwd
+    rm -f "${tcz_name}.tcz"
     mksquashfs "${tcz_name}/" "${tcz_name}.tcz" -b 16384 -info >& "${LOGS_PATH}/${tcz_name}.log" && md5sum "${tcz_name}.tcz" > "${tcz_name}.tcz.md5.txt"
     echo "created ${PWD}/${tcz_name}.tcz"
     echo "log file is ${PWD}/logs/${tcz_name}.log"
