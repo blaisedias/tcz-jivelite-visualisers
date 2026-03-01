@@ -70,6 +70,7 @@
 - Reel To Reel HiRes <pre><img src="assets/visualisers/vumeters/Alex_reel_to_reel_HiRes/0018.png?raw=true" alt="Alex_reel_to_reel_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_reel_to_reel_HiRes/0042.png?raw=true" alt="Alex_reel_to_reel_HiRes" width="200"/></pre>
 - Seg5 HiRes <pre><img src="assets/visualisers/vumeters/Alex_seg5_HiRes/0018.png?raw=true" alt="Alex_seg5_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_seg5_HiRes/0042.png?raw=true" alt="Alex_seg5_HiRes" width="200"/></pre>
 - V-Shape HiRes <pre><img src="assets/visualisers/vumeters/Alex_v-shape_HiRes/18.png?raw=true" alt="Alex_v-shape_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_v-shape_HiRes/42.png?raw=true" alt="Alex_v-shape_HiRes" width="200"/></pre>
+- White HiRes <pre><img src="assets/visualisers/vumeters/Alex_white_HiRes/18.png?raw=true" alt="Alex_white_HiRes" width="200"/> <img src="assets/visualisers/vumeters/Alex_white_HiRes/42.png?raw=true" alt="Alex_white_HiRes" width="200"/></pre>
 
 ### vis-VU_Meter_suite_HiRes_daab
 - PurpleHiRes <pre><img src="assets/visualisers/vumeters/PurpleHiRes/Purple-18.png?raw=true" alt="PurpleHiRes" width="200"/> <img src="assets/visualisers/vumeters/PurpleHiRes/Purple-42.png?raw=true" alt="PurpleHiRes" width="200"/></pre>
